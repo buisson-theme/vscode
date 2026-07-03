@@ -2,7 +2,7 @@
     "name": "buisson-theme",
     "displayName": "Buisson",
     "description": "An inky botanical color scheme — Evergarden soul, Flexoki accessibility",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "adrius",
     "engines": {
         "vscode": "^1.60.0"
