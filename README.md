@@ -8,9 +8,6 @@
 
 [Palette](#palette) · [Installation](#installation) · [Accessibility](#accessibility)
 
-<img src="https://raw.githubusercontent.com/buisson-theme/vscode/main/screenshots/dark.png" width="49%" alt="Buisson Dark" />
-<img src="https://raw.githubusercontent.com/buisson-theme/vscode/main/screenshots/light.png" width="49%" alt="Buisson Light" />
-
 </div>
 
 ---
